@@ -23,6 +23,6 @@ conda activate DS702
 ```
 
 ## Dataset
-Dataset needs to be downloaded separately through this <a href="link">https://s3.amazonaws.com/nyc-tlc/trip+data/green_tripdata_2015-09.csv</a>
+Dataset needs to be downloaded separately through this <a href="https://s3.amazonaws.com/nyc-tlc/trip+data/green_tripdata_2015-09.csv">link</a>
 <br>
-The description of the columns is available through this <a href='link'>https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf</a>
+The description of the columns is available through this <a href='https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf'>link</a>
